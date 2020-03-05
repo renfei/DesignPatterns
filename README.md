@@ -6,3 +6,5 @@ GoF的23种设计模式讲解和演示，参考《Design Patterns: Elements of R
 ---
 
 ====== 目录 ======
+#### [GoF的23种设计模式讲解和演示：概述](https://www.renfei.net/posts/1003337)
+#### [GoF的23种设计模式讲解和演示：（一）单例模式-懒汉式单例-饿汉式单例](https://www.renfei.net/posts/1003338)
